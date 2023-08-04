@@ -52,6 +52,30 @@ app.get('/spotlights', (_req, res, next) => {
 		next(error)
 	}
 })
+app.get('/products', (_req, res, next) => {
+	try {
+		const productsPath = createPath('products')
+		const { products } = require(productsPath)
+		res.json(products)
+	} catch (error) {
+		next(error)
+	}
+})
+app.get('/products/:id', (req, res, next) => {
+	const productId = Number(req.params.id)
+	try {
+		const productsPath = createPath('products')
+		const { products } = require(productsPath)
+		const product = products.find(item => item.id === productId)
+		if (product) {
+			res.json(product)
+		} else {
+			res.status(404).json({ message: "Product don't find!" })
+		}
+	} catch (error) {
+		next(error)
+	}
+})
 
 app.use((error, _req, res, _next) => {
 	console.error(error)

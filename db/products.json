@@ -1,0 +1,231 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "PÄRUP",
+			"price": 1099.0,
+			"description": "Timeless design with delicate details such as piping around the armrests and wooden legs.",
+			"category": "Sofas",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/paerup-sectional-4-seat-corner-gunnared-beige__0950123_pe800145_s5.jpg?f=s",
+				"https://www.ikea.com/us/en/images/products/paerup-sectional-4-seat-corner-gunnared-beige__0950124_pe800146_s5.jpg?f=s",
+				"https://www.ikea.com/us/en/images/products/paerup-sectional-4-seat-corner-gunnared-beige__0950102_pe800231_s5.jpg?f=s"
+			]
+		},
+		{
+			"id": 2,
+			"title": "PPLAND",
+			"price": 1599.0,
+			"description": "Enjoy the super comfy UPPLAND sofa with embracing feel and deep seat cushions made of pocket springs, high resilience foam and polyester fibers, adding both firm support and relaxing softness.",
+			"category": "Sofas",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/uppland-sectional-4-seat-corner-remmarn-light-gray__0818597_pe774519_s5.jpg?f=l",
+				"https://www.ikea.com/us/en/images/products/uppland-sectional-4-seat-corner-remmarn-light-gray__0818596_pe774525_s5.jpg?f=l",
+				"https://www.ikea.com/us/en/images/products/uppland-sectional-4-seat-corner-remmarn-light-gray__0818543_pe774474_s5.jpg?f=l",
+				"https://www.ikea.com/us/en/images/products/uppland-sectional-4-seat-corner-remmarn-light-gray__0944730_pe797419_s5.jpg?f=l"
+			]
+		},
+		{
+			"id": 3,
+			"title": "SÖDERHAMN",
+			"price": 2028.0,
+			"description": "SÖDERHAMN seating series allows you to sit deeply, low and softly with the loose back cushions for extra support.\nLight, airy design with high legs and slim lines, yet still a great comfort thanks to the elastic weave in the bottom and high resilience foam in the seat cushions.",
+			"category": "Sofas",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/soederhamn-sectional-5-seat-fridtuna-light-beige__1057738_pe848945_s5.jpg?f=l",
+				"https://www.ikea.com/us/en/images/products/soederhamn-sectional-5-seat-fridtuna-light-beige__1057737_pe848946_s5.jpg?f=l"
+			]
+		},
+		{
+			"id": 4,
+			"title": "PÄRUP",
+			"price": 449.0,
+			"description": "Timeless design with delicate details such as piping around the armrests and wooden legs.\nThe legs leave space under the sofa in order to create an airy look and make it easier for you when cleaning.\nThe pocket spring core of the seat cushions provides even comfort over the entire seating surface and gives your body good support.",
+			"category": "Sofas",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/paerup-sofa-vissle-gray__1041907_pe841187_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 5,
+			"title": "MALM",
+			"price": 349.0,
+			"description": "Wood veneer gives you the same look, feel and beauty as solid wood with unique variations in grain, color and texture.\nThis versatile bed frame will look great with your choice of textiles and bedroom furniture.\nYou can sit up comfortably in bed thanks to the high headboard – just prop some pillows behind your back and you will have a comfortable place to read or watch TV.",
+			"category": "Beds",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/malm-bed-frame-high-black-brown-luroey__0638608_pe699032_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/malm-bed-frame-high-black-brown-luroey__1101514_pe866693_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/malm-bed-frame-high-black-brown-luroey__0452610_ph133272_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/malm-bed-frame-high-black-brown-luroey__1092102_pe863044_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/malm-bed-frame-high-black-brown-luroey__1092102_pe863044_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 6,
+			"title": "SAGSTUA",
+			"price": 249.0,
+			"description": "Brass-colored details on the headboard, footboard and legs give a unique twist to this classic design.\nThe powder-coated steel frame is strong, sturdy and easy to maintain.\n    You can sit up comfortably in bed thanks to the high headboard – just prop some pillows behind your back and you will have a comfortable place to read or watch TV.",
+			"category": "Beds",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/sagstua-bed-frame-black-luroey__0662135_pe719104_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/sagstua-bed-frame-black-luroey__0800859_ph163664_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 7,
+			"title": "SLATTUM",
+			"price": 199.0,
+			"description": "The fixed cover is made with a soft, woven fabric and finished with subtle stitching details on the headboard and footboard.",
+			"category": "Beds",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/slattum-upholstered-bed-frame-knisa-light-gray__0768244_pe754388_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/slattum-upholstered-bed-frame-knisa-light-gray__1101373_pe866633_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 8,
+			"title": "VARIERA",
+			"price": 6.99,
+			"description": "The box is easy to carry and take in and out of a drawer or shelf since it has two cut-out handles that make it comfortable to grip.",
+			"category": "Kitchen systems",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/variera-box-white__0626879_pe693057_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/variera-box-white__0260311_pe404028_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 9,
+			"title": "UPPDATERA",
+			"price": 7.0,
+			"description": "Makes it easier to keep your cutlery and utensils organized, so you can quickly find what you need in the kitchen drawer and start cooking.\nLooks after your kitchen utensils and prevents them from getting scratches or other damages in the drawer.",
+			"category": "Kitchen systems",
+			"image": []
+		},
+		{
+			"id": 10,
+			"title": "UPPDATERA 2.0",
+			"price": 12.0,
+			"description": "Keeps plates from sliding around when you open and close drawers, protecting them from bumps and broken edges.",
+			"category": "Kitchen systems",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/uppdatera-plate-holder-anthracite__1054488_pe847713_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/uppdatera-plate-holder-anthracite__1054491_pe847715_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/uppdatera-plate-holder-anthracite__1058002_pe849097_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 11,
+			"title": "STÖDJA",
+			"price": 2.99,
+			"description": "Designed to hold even large kitchen utensils.",
+			"category": "Kitchen systems",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/stoedja-utensil-tray-white__0107318_pe256934_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 12,
+			"title": "UPPDATERA 3.0",
+			"price": 18.0,
+			"description": "Makes it easier to keep your cutlery organized, so you can quickly find what you need in the kitchen drawer and start setting the table.\nLooks after your cutlery and prevents them from getting scratches or other damages in the drawer.\nMay be combined with other UPPDATERA drawer organizers to utilize the full volume in your kitchen drawers.\nThe bamboo gives your kitchen a warm and finished expression.\nThe compartments can be made bigger by removing one or more of the smaller dividers.\n    The plastic feet underneath keep the tray from sliding around when you open and close the drawer - even if your drawer is slightly bigger than the tray.",
+			"category": "Kitchen systems",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/uppdatera-flatware-tray-light-bamboo__0968834_pe810561_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/uppdatera-flatware-tray-light-bamboo__0993668_pe820657_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/uppdatera-flatware-tray-light-bamboo__0985022_pe816487_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 13,
+			"title": "STRANDMON",
+			"price": 369.0,
+			"description": "You can really loosen up and relax in comfort because the high back on this chair provides extra support for your neck.\nThis cover is made from durable Skiftebo polyester fabric. It has a nice luster and a two-tone effect with a light texture that feels firm to the touch.\n10-year limited warranty. Read about the terms in the limited warranty brochure.",
+			"category": "Chairs",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/strandmon-wing-chair-skiftebo-yellow__0325450_pe517970_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/strandmon-wing-chair-skiftebo-yellow__0837297_pe601176_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 14,
+			"title": "EKENÄSET",
+			"price": 249.0,
+			"description": "Clean lines and supportive comfort, regardless if you’re reading, socializing with friends or just relaxing for a moment.",
+			"category": "Chairs",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1179060_pe895831_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1110707_pe870568_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 15,
+			"title": "OSKARSHAMN",
+			"price": 399.0,
+			"description": "This classic and timeless wing chair with an embracing backrest gives you relaxing me-time and is also great to sit on while enjoying socializing with others.\nClean lines, simple and at the same time a softly rounded design with wooden legs all make the wing chair easy to like and place anywhere.",
+			"category": "Chairs",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-tibbleby-beige-gray__1118157_pe872954_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-tibbleby-beige-gray__1173932_ph190301_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-tibbleby-beige-gray__1123975_pe874945_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-tibbleby-beige-gray__1123973_pe874943_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-tibbleby-beige-gray__1123974_pe874944_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 16,
+			"title": "MORABO",
+			"price": 549.0,
+			"description": "Seat cushions filled with high-resilience foam and polyester fiber wadding provide great seating comfort.",
+			"category": "Chairs",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/morabo-armchair-gunnared-light-green-wood__0602091_pe680160_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 17,
+			"title": "PELLO",
+			"price": 79.99,
+			"description": "PELLO armchair has a bent shape that is slightly resilient when you’re seated and provides comfortable back and neck support.",
+			"category": "Chairs",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/pello-armchair-holmby-natural__38296_pe130209_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/pello-armchair-holmby-natural__0841137_pe600889_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 18,
+			"title": "BJÖRKSTA",
+			"price": 77.99,
+			"description": "Motif created by Starla Michelle.\nCreate a picture that fits you and your walls by choosing the size of the canvas, a motif you like, and the color of the frame you prefer.",
+			"category": "Wall décor",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/bjoerksta-picture-and-frame-head-to-head-black__1082246_pe858578_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/bjoerksta-picture-and-frame-head-to-head-black__1092623_pe862942_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 19,
+			"title": "BJÖRKSTA 2.0",
+			"price": 122.99,
+			"description": "Choose the look of your picture by either having the frame visible or folding the canvas around the frame.\nIf you want some variation, you can easily change the motif or put textiles in the frame.",
+			"category": "Wall décor",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/bjoerksta-picture-and-frame-the-world-black__1176926_pe895319_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/bjoerksta-picture-and-frame-the-world-black__1215422_pe911981_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/bjoerksta-picture-and-frame-the-world-black__1215417_pe911977_s5.jpg?f=xl"
+			]
+		},
+		{
+			"id": 20,
+			"title": "PJÄTTERYD",
+			"price": 34.99,
+			"description": "Motif created by Mark Chandon and Paul Duncan.",
+			"category": "Wall décor",
+			"image": [
+				"https://www.ikea.com/us/en/images/products/pjaetteryd-picture-set-of-4-by-the-beach__1156240_pe887009_s5.jpg?f=xl",
+				"https://www.ikea.com/us/en/images/products/pjaetteryd-picture-set-of-4-by-the-beach__1178916_pe895782_s5.jpg?f=xl"
+			]
+		}
+	]
+}
