@@ -9,7 +9,7 @@ app.use(
 	})
 )
 
-const PORT = 3000
+const PORT = 4500
 
 const createPath = db => path.resolve(__dirname, 'db', `${db}.json`)
 
@@ -76,6 +76,15 @@ app.get('/products/:id', (req, res, next) => {
 		next(error)
 	}
 })
+app.get('/data', (_req, res, next) => {
+	try {
+		const dataPath = createPath('storeData')
+		const { data } = require(dataPath)
+		res.json(data)
+	} catch (error) {
+		next(error)
+	}
+})
 
 app.use((error, _req, res, _next) => {
 	console.error(error)
@@ -85,3 +94,4 @@ app.use((error, _req, res, _next) => {
 app.use((_req, res) => {
 	res.status(404).send('Error 404')
 })
+

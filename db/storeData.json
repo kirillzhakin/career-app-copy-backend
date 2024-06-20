@@ -1,0 +1,80 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"img": "/image/product1.png'",
+			"title": "Мешок ПП ВС 55х105 см полипропиленовый белый",
+			"quantity": 3390,
+			"price": 34
+		},
+		{
+			"id": 2,
+			"img": "/image/product2.png",
+			"title": "Перчатки с двойным латексным обливом",
+			"quantity": 224,
+			"price": 43
+		},
+		{
+			"id": 3,
+			"img": "/image/product3.png",
+			"title": "Фильтрующая коническая полумаска ЗУБР ФК-80",
+			"quantity": 147,
+			"price": 79,
+			"sale": 89
+		},
+		{
+			"id": 4,
+			"img": "/image/product4.png",
+			"title": "Лента малярная Unibob белая 50 мм 50 м",
+			"quantity": 205,
+			"price": 268,
+			"sale": 282
+		},
+		{
+			"id": 5,
+			"img": "/image/product5.png",
+			"title": "Шпатель ЗУБР Профессионал X-PRO",
+			"quantity": 117,
+			"price": 217
+		},
+		{
+			"id": 6,
+			"img": "/image/product6.png",
+			"title": "Сегментированное лезвие 10 шт Зубр 09710-18-10",
+			"quantity": 91,
+			"price": 125,
+			"sale": 142
+		},
+		{
+			"id": 7,
+			"img": "/image/product7.png",
+			"title": "Перчатки х/б, 4 нити, ПВХ-покрытие, Волна",
+			"quantity": 100,
+			"price": 35,
+			"sale": 49
+		},
+		{
+			"id": 8,
+			"img": "/image/product8.png",
+			"title": "Ведро строительное пластиковое с делениями 20 л Эконом",
+			"quantity": 84,
+			"price": 212,
+			"sale": 234
+		},
+		{
+			"id": 9,
+			"img": "/image/product9.png",
+			"title": "Бур SDS-plus Креост, 6х160",
+			"quantity": 89,
+			"price": 111,
+			"sale": 126
+		},
+		{
+			"id": 10,
+			"img": "/image/product10.png",
+			"title": "Шпатель фасадный из нержавеющей стали, 350 мм",
+			"quantity": 66,
+			"price": 140
+		}
+	]
+}
