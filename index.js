@@ -1,7 +1,6 @@
 const express = require('express')
 const path = require('path')
 const cors = require('cors')
-
 const app = express()
 app.use(
 	cors({
@@ -12,6 +11,7 @@ app.use(
 const PORT = 4500
 
 const createPath = db => path.resolve(__dirname, 'db', `${db}.json`)
+const createPathArray = db => path.resolve(__dirname, 'db', `${db}.js`)
 
 try {
 	app.listen(PORT, () => console.log(`Порт ${PORT}`))
@@ -81,6 +81,16 @@ app.get('/data', (_req, res, next) => {
 		const dataPath = createPath('storeData')
 		const { data } = require(dataPath)
 		res.json(data)
+	} catch (error) {
+		next(error)
+	}
+})
+app.get('/brands', (_req, res, next) => {
+	try {
+		const dataPath = createPathArray('brands')
+		const brands = require(dataPath)
+		console.log(brands)
+		return res.json(brands)
 	} catch (error) {
 		next(error)
 	}
