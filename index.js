@@ -85,11 +85,19 @@ app.get('/data', (_req, res, next) => {
 		next(error)
 	}
 })
+app.get('/diginetica', (_req, res, next) => {
+	try {
+		const dataPath = createPath('diginetica')
+		const { data } = require(dataPath)
+		res.json(data)
+	} catch (error) {
+		next(error)
+	}
+})
 app.get('/brands', (_req, res, next) => {
 	try {
 		const dataPath = createPathArray('brands')
 		const brands = require(dataPath)
-		console.log(brands)
 		return res.json(brands)
 	} catch (error) {
 		next(error)

@@ -1,0 +1,144 @@
+{
+	"data": [
+		{
+			"categories": [
+				{
+					"id": "14986",
+					"name": "Водоснабжение",
+					"direct": true,
+					"link_url": "/catalog/inzhenernye_sistemy/vodosnabzhenie/rezbovye_fitingi/",
+					"image_url": "https://store.domeo.ru/upload/iblock/c1a/c1a90d9c17855c939e31bd2aeb13d768.jpg"
+				},
+				{
+					"id": "14972",
+					"name": "Инженерные системы",
+					"direct": true,
+					"link_url": "/catalog/inzhenernye_sistemy/vodosnabzhenie/",
+					"image_url": "https://store.domeo.ru/upload/iblock/c1a/c1a90d9c17855c939e31bd2aeb13d768.jpg"
+				},
+				{
+					"id": "15211",
+					"name": "Крепеж",
+					"direct": true,
+					"link_url": "/catalog/krepezh/krepezh_dlya_fasadnykh_sistem/",
+					"image_url": "https://store.domeo.ru/upload/iblock/541/5416040d454b78c693382ea4b9e5d5ba.jpg"
+				},
+				{
+					"id": "15093",
+					"name": "Круги отрезные",
+					"direct": true,
+					"link_url": "/catalog/instrument_i_raskhodniki/raskhodnye_materialy_k_elektroinstrumentu/krugi_otreznye/po_metallu/",
+					"image_url": "https://store.domeo.ru/upload/iblock/53c/53c799f86cfde8223ac6b150ccd7f463.png"
+				},
+				{
+					"id": "15419",
+					"name": "Тарельчатые дюбели для теплоизоляции",
+					"direct": true,
+					"link_url": "/catalog/krepezh/krepezh_dlya_fasadnykh_sistem/tarelchatye_dyubeli_dlya_teploizolyatsii/",
+					"image_url": "https://store.domeo.ru/upload/iblock/541/5416040d454b78c693382ea4b9e5d5ba.jpg"
+				},
+				{
+					"id": "15421",
+					"name": "Хомуты, скобы и ленты",
+					"direct": true,
+					"link_url": "/catalog/krepezh/krepezh_dlya_derevyannykh_konstruktsiy/khomuty_skoby_i_lenty/",
+					"image_url": "https://store.domeo.ru/upload/iblock/af4/af4d86c265e0762cda0551b361e9400d.png"
+				},
+				{
+					"id": "15305",
+					"name": "Стеновые материалы",
+					"direct": true,
+					"link_url": "/catalog/stroymaterialy/stenovye_materialy/stroitelnye_bloki/",
+					"image_url": "https://store.domeo.ru/upload/iblock/cb5/cb5f3e6cd74e572a7eea2724c0fd4db2.jpg"
+				},
+				{
+					"id": "15425",
+					"name": "Сантехника",
+					"direct": true,
+					"link_url": "/catalog/inzhenernye_sistemy/santekhnika/installyatsii_i_komplektuyushchie_dlya_installyatsiy/",
+					"image_url": "https://store.domeo.ru/upload/iblock/ae7/ae749523b04f01754855b89d12c71997.jpg"
+				},
+				{
+					"id": "15308",
+					"name": "Строительные блоки",
+					"direct": true,
+					"link_url": "/catalog/stroymaterialy/stenovye_materialy/stroitelnye_bloki/gazobetonnye_bloki/",
+					"image_url": "https://store.domeo.ru/upload/iblock/cb5/cb5f3e6cd74e572a7eea2724c0fd4db2.jpg"
+				},
+				{
+					"id": "15077",
+					"name": "Газовое и сварочное оборудование",
+					"direct": true,
+					"link_url": "/catalog/instrument_i_raskhodniki/gazovoe_i_svarochnoe_oborudovanie/gorelki_krovelnye_ballony_gazovye_komplektuyushchie/",
+					"image_url": "https://store.domeo.ru/upload/iblock/a86/a868cbb982db55bb757cbe77882af14c.jpg"
+				}
+			],
+			"products": [
+				{
+					"id": 1,
+					"img": "/image/product1.png'",
+					"title": "Мешок ПП ВС 55х105 см полипропиленовый белый",
+					"quantity": 3390,
+					"price": 34
+				},
+				{
+					"id": 2,
+					"img": "/image/product2.png",
+					"title": "Перчатки с двойным латексным обливом",
+					"quantity": 224,
+					"price": 43
+				},
+				{
+					"id": 3,
+					"img": "/image/product3.png",
+					"title": "Фильтрующая коническая полумаска ЗУБР ФК-80",
+					"quantity": 147,
+					"price": 79,
+					"sale": 89
+				}
+			],
+			"sts": [
+				{
+					"st": " валик",
+					"amount": 29
+				},
+				{
+					"st": "шпатель",
+					"amount": 26
+				},
+				{
+					"st": "перчатки",
+					"amount": 24
+				},
+				{
+					"st": "правило",
+					"amount": 23
+				},
+				{
+					"st": "саморез",
+					"amount": 23
+				},
+				{
+					"st": "грунтовка",
+					"amount": 22
+				},
+				{
+					"st": "скотч",
+					"amount": 21
+				},
+				{
+					"st": "штукатурка",
+					"amount": 18
+				},
+				{
+					"st": "мешки для мусора",
+					"amount": 16
+				},
+				{
+					"st": "скотч малярный",
+					"amount": 16
+				}
+			]
+		}
+	]
+}
