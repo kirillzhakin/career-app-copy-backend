@@ -85,12 +85,13 @@ app.get('/data', (_req, res, next) => {
 		next(error)
 	}
 })
-app.post('/diginetica', (req, res, next) => {
-	const { string } = req.body
+app.get('/diginetica', (req, res, next) => {
+	const { string } = req.query
 	try {
 		const dataPath = createPath('diginetica')
 		const { data } = require(dataPath)
 		data[0].string = string;
+		console.log(data)
 		res.json(data)
 	} catch (error) {
 		next(error)
